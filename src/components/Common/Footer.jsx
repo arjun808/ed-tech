@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Arjun Patidar © 2023 D-learning</div>
+          <div className="text-center">Made with ❤️ ARJUN PATIDAR © 2023 D-LEARNING</div>
         </div>
       </div>
     </div>
